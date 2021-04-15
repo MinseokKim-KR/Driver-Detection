@@ -1,0 +1,2 @@
+model_checkpoint_path: "driver.ckpt-2499"
+all_model_checkpoint_paths: "driver.ckpt-2499"
